@@ -1,0 +1,11 @@
+date,region,product,units_sold,price
+2024-01-01,East,Phone,5,699
+2024-01-02,West,Laptop,2,1200
+2024-01-03,North,Tablet,4,450
+2024-01-04,East,Phone,3,699
+2024-01-05,South,Laptop,1,1200
+2024-01-06,West,Tablet,6,450
+2024-01-07,North,Phone,2,699
+2024-01-08,South,Tablet,5,450
+2024-01-09,East,Laptop,2,1200
+2024-01-10,West,Phone,4,699
